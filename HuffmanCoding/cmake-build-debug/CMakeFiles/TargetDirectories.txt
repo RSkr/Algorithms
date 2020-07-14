@@ -1,0 +1,3 @@
+/home/radek/CLionProjects/Algorytmy/HuffmanCoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/CLionProjects/Algorytmy/HuffmanCoding/cmake-build-debug/CMakeFiles/HuffmanCoding.dir
+/home/radek/CLionProjects/Algorytmy/HuffmanCoding/cmake-build-debug/CMakeFiles/edit_cache.dir

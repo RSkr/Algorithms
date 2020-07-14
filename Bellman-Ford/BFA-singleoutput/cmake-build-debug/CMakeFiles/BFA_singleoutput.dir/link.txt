@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BFA_singleoutput.dir/main.cpp.o  -o BFA_singleoutput 

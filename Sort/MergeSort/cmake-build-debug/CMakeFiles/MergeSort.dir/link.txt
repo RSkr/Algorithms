@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -fopenmp -g   CMakeFiles/MergeSort.dir/main.cpp.o  -o MergeSort 

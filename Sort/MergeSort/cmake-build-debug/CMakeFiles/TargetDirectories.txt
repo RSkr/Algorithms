@@ -1,0 +1,3 @@
+/home/radek/CLionProjects/Algorytmy/Sort/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/CLionProjects/Algorytmy/Sort/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
+/home/radek/CLionProjects/Algorytmy/Sort/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir

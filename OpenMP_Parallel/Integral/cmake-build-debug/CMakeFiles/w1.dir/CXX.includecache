@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radek/CLionProjects/Algorytmy/OpenMP_Parallel/Integral/main.cpp
+iostream
+-
+omp.h
+-
+time.h
+-
+

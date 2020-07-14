@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BellmanFordListEdges" targetName="BellmanFordListEdges" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2ff1af0-531f-49af-a589-bb1cfb66dc97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RuqhSnt4g5CCXqI7frE4Rb9MUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BellmanFordArray" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BellmanFordListEdges" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BellmanFordListEdges" TARGET_NAME="BellmanFordListEdges" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BellmanFordListEdges" RUN_TARGET_NAME="BellmanFordListEdges">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ff1af0-531f-49af-a589-bb1cfb66dc97" name="Default Changelist" comment="" />
+      <created>1570527447861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570527447861</updated>
+      <workItem from="1570527449057" duration="2052000" />
+      <workItem from="1570617392037" duration="54000" />
+      <workItem from="1570618404738" duration="1193000" />
+      <workItem from="1570625470385" duration="118000" />
+      <workItem from="1571045492684" duration="679000" />
+      <workItem from="1571046523782" duration="414000" />
+      <workItem from="1571050630621" duration="40000" />
+      <workItem from="1571060089218" duration="125000" />
+      <workItem from="1571063437847" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1571063587390">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1571063587390" />
+    <state width="881" height="275" key="GridCell.Tab.0.bottom" timestamp="1570619636557">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1570619636557" />
+    <state width="881" height="275" key="GridCell.Tab.0.center" timestamp="1570619636556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1570619636556" />
+    <state width="881" height="275" key="GridCell.Tab.0.left" timestamp="1570619636556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1570619636556" />
+    <state width="881" height="275" key="GridCell.Tab.0.right" timestamp="1570619636557">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1570619636557" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1570625471594">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1570625471594" />
+    <state x="657" y="252" key="run.anything.popup" timestamp="1570529384529">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="252" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1570529384529" />
+  </component>
+</project>

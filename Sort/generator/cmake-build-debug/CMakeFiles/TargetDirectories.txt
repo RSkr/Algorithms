@@ -1,0 +1,3 @@
+/home/radek/CLionProjects/Algorytmy/Sort/generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/CLionProjects/Algorytmy/Sort/generator/cmake-build-debug/CMakeFiles/generator.dir
+/home/radek/CLionProjects/Algorytmy/Sort/generator/cmake-build-debug/CMakeFiles/edit_cache.dir

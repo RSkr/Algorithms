@@ -1,0 +1,3 @@
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BellmanFordListEdges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BellmanFordListEdges/cmake-build-debug/CMakeFiles/BellmanFordListEdges.dir
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BellmanFordListEdges/cmake-build-debug/CMakeFiles/edit_cache.dir

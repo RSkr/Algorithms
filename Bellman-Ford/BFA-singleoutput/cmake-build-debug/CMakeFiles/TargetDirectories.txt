@@ -1,0 +1,3 @@
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BFA-singleoutput/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BFA-singleoutput/cmake-build-debug/CMakeFiles/BFA_singleoutput.dir
+/home/radek/CLionProjects/Algorytmy/Bellman-Ford/BFA-singleoutput/cmake-build-debug/CMakeFiles/edit_cache.dir
